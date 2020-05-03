@@ -1,6 +1,7 @@
 # YouthIcon
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/youthiconworkspace/shared_invite/zt-e102vcid-l9LyldQJ303mePF9rxGWDQ)
 
 <div align="center">
 <img src="https://pbs.twimg.com/profile_images/1255858628986384384/d7Lk9I-w_400x400.jpg" >
@@ -30,3 +31,45 @@ There are many ways to contribute to **YouthIcons**.
 7. **COMPUTE** - Help with infrastructure and compute! Do you have spare compute to donate? Let us know! We're always looking for more.
 9. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, or engaging with media outlets
 10. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
+
+Want more details? Check out our [current initiatives](https://github.com/osDFS/YouthIcon/blob/master/initiatives.md)
+
+## How do I join?
+
+1. Join our [Slack](https://join.slack.com/t/youthiconworkspace/shared_invite/zt-e102vcid-l9LyldQJ303mePF9rxGWDQ)
+2. This is so we can feature you on our webpage [osDFS](https://www.osdfs.in). Please email the following to codegirls.opensource@gmail.com:
+    - Your Full Name
+    - A preferred social media link
+    - You GitHub profile
+    - The language(s) you'll be working on (or your general relevant specialty - if you're an expert at machine translation and - would like to boost the community through that)
+    - A picture
+    - Your affiliation and role.
+
+#### Structure of your PR:
+
+Also see this as an example for the structure of your contribution
+
+Structure:
+ ```
+/benchmarks
+  /<src-lang>-<tgt-lang>
+    /<technique> -- this could be "jw300-baseline" or "fine-tuned-baseline" or "nig-newspaper-dataset"
+      - notebook.ipynb
+      - README.md
+      - test.src
+      - test.tgt
+      - results.txt
+      - src_vocab.txt
+      - trg_vocab.txt
+      - src.bpe
+      - [trg.bpe if the bpe model is not joint with src]
+      - config.yaml
+      - any other files, if you have any
+```
+
+
+**Feeling nervous about contributing your first pull request or unsure how to proceed? Please don't feel discouraged! Drop us an email or a slack message and we will work together to get your contribution in ship shape!**
+
+# Code of Conduct
+
+See [Code of Conduct](https://github.com/osDFS/Code-of-Conduct/blob/master/code-of-conduct.md)
