@@ -1,7 +1,7 @@
 # YouthIcon
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-[![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/youthiconworkspace/shared_invite/zt-e102vcid-l9LyldQJ303mePF9rxGWDQ)
+[![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/osdfs/shared_invite/zt-eecws9vb-zvmzBeSPgBZrE9RWVj43Sw)
 [![85e92ee9](https://user-images.githubusercontent.com/41269164/84294764-440e7200-ab67-11ea-8732-fa5973d2b09a.png )](https://scodein.tech/)
 
 <div align="center">
