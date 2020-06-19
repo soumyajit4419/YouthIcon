@@ -74,3 +74,5 @@ Structure:
 # Code of Conduct
 
 See [Code of Conduct](https://github.com/osDFS/Code-of-Conduct/blob/master/code-of-conduct.md)
+
+- MT for Indian Languages based on **Masakhane-Style**
