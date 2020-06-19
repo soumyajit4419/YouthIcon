@@ -11,6 +11,8 @@
 
 **YouthIcon** as the name suggest will be a research effort for NLP for Indian languages that is LOW RESOURCED, OPEN SOURCE, CONTRY-WIDE, DISTRIBUTED and ONLINE. The **YouthIcon** will contain the data, code, results and research for building open baseline NLP results for Indian languages. **YouthIcon-MT** will contain the Machine Transaltion model. As Machine Translation (MT), an application area of Natural Language Processing (NLP) and a subfield of computational linguistics, facilitates automated translation of text or speech in a source natural language to corresponding text or speech in a different target natural language. Language incomprehensibility has wide-ranging adverse impacts on several aspects of human living, and the same can be reasonably alleviated with effective use of MT. Besides, the crucial idea of MT is to bridge communication barriers among people from different linguistic backgrounds. **YouthIcon** project will run under osDFS. 
 
+This will be a healthy start to building Automated machine translation for English to other Indian languages. This will be built mainly to help increase quality of Indian languages wikipedia articles by translating for English Wikipedia. The approach will be to start building a parallel corpus between English and other Indian languages which can later be used in SMT(Statistical Machine Translation) or NMT (Neural Machine Translation) in future by interested people.
+
 ## Goals
 
 - For Indian Languages first we will follow these things:
