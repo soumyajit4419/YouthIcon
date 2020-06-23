@@ -4,7 +4,8 @@
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://join.slack.com/t/osdfs/shared_invite/zt-eecws9vb-zvmzBeSPgBZrE9RWVj43Sw)
 
 <div align="center">
-<img src="asset/youthicon.png" >
+<img src="./asset/sci.png"  width="250">
+<img src="asset/youthicon.png" width="250">
 </div>
 
 - Our goal is to put **India** on NLP map. We have to build NMT(Neural Machine Translations) models for low resourced Indian Languages. We will also build a living collection of NLP projects for Indians, by Indians. We are modelling this after [Masakhane](https://masakhane.io/).
