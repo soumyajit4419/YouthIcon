@@ -2,13 +2,14 @@
 
 
 <div align="center">
-Encoder-Decoder Architecture
-      
-<img src="./seq2seq_describe.png"  width="500">
+      <img src="./seq2seq_describe.png"  width="1000">
 </div>  
 
+[Encoder-Decoder Architecture ]: https://github.com/simarpreetsingh-019/YouthIcon/blob/master/Tutorials/Seq2Seq/seq2seq_describe.png "Encoder-Decoder Architecture"
 
-In   [Seq2Seq_implemetation.ipynb](./Seq2Seq/Seq2Seq_implemetation.ipynb)  
+
+In
+[Seq2Seq_implemetation.ipynb](./Seq2Seq/Seq2Seq_implemetation.ipynb)  
 , we will learn about this with an example of making a german to english language translator.
 
 ### Libraries needed : 
@@ -59,6 +60,6 @@ Like this:
 <div align="center">
 Loss Plot
 <img src="./loss_plot1.png"  width="250">
-<img src="./loss_plot2.png"  width="250">
-<img src="./loss_plot3.png"  width="250">      
+<img src="./assets/loss_plot2.png"  width="250">
+<img src="./assets/loss_plot3.png"  width="250">      
 </div>
