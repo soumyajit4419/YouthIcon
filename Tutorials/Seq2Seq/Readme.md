@@ -3,8 +3,10 @@
 
 <div align="center">
 Encoder-Decoder Architecture
-<img src="./seq2seq_describe.png"  width="300">
-</div>
+      
+<img src="./seq2seq_describe.png"  width="500">
+</div>  
+
 
 In ![Seq2Seq_implemetation.ipynb](./Seq2Seq/Seq2Seq_implemetation.ipynb) 
 , we will learn about this with an example of making a german to english language translator.
@@ -55,6 +57,7 @@ will be hosted, you will get a link http://localhost:6006/ in cmd. copy this url
 Like this: 
 <div align="center">
 Loss Plot
-<img src="./loss_plot1.png"  width="200">
-<img src="./loss_plot2.png"  width="200">
+<img src="./loss_plot1.png"  width="250">
+<img src="./loss_plot2.png"  width="250">
+<img src="./loss_plot3.png"  width="250">      
 </div>
