@@ -1,13 +1,13 @@
 ## Seq 2 Seq using Pytorch.
 
-
 <div align="center">
-      <img src="./seq2seq_describe.png"  width="1000">
+      <img src="./assets/seq2seq_describe.png"  width="1000">
 </div>  
+<br/>
+<br/>
+<br>
 
-[Encoder-Decoder Architecture ]: https://github.com/simarpreetsingh-019/YouthIcon/blob/master/Tutorials/Seq2Seq/seq2seq_describe.png "Encoder-Decoder Architecture"
-
-
+### Notebook 
 In
 [Seq2Seq_implemetation.ipynb](./Seq2Seq/Seq2Seq_implemetation.ipynb)  
 , we will learn about this with an example of making a german to english language translator.
@@ -56,10 +56,14 @@ to see the plot, open cmd in the folder/directory where Seq2Seq folder is saved 
 or just type cmd in the search bar after opening Seq2Seq folder, then type `tensorboard --logdir runs`. This will make a local server with port 6006, which is for tensorflow .
 --logdir runs is used because it will directly check for runs dolder. if you saved it with some other folder name, use that name intead of runs, to see it. when the server
 will be hosted, you will get a link http://localhost:6006/ in cmd. copy this url, and paste it in browser . this will open the tensorboard UI, and you can see your plot.
-Like this: 
-<div align="center">
-Loss Plot
-<img src="./loss_plot1.png"  width="250">
-<img src="./assets/loss_plot2.png"  width="250">
-<img src="./assets/loss_plot3.png"  width="250">      
-</div>
+Like this:  
+
+**Loss Plots:**
+      
+<br/>
+<img src="./assets/loss_plot1.png"  width="250">
+<br/>      
+<img src="./assets/loss_plot2.png"  width="250"> 
+<br/>
+<img src="./assets/loss_plot3.png"  width="250">     
+<br/>
