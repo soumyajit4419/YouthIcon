@@ -8,11 +8,12 @@ Encoder-Decoder Architecture
 </div>  
 
 
-In ![Seq2Seq_implemetation.ipynb](./Seq2Seq/Seq2Seq_implemetation.ipynb) 
+In   [Seq2Seq_implemetation.ipynb](./Seq2Seq/Seq2Seq_implemetation.ipynb)  
 , we will learn about this with an example of making a german to english language translator.
 
 ### Libraries needed : 
-* Torch : line to download [here](https://pytorch.org/get-started/locally/). Choose accordingly according to your system, but latest version.
+* Torch : Click to download [here](https://pytorch.org/get-started/locally/). Choose accordingly according to your system, but latest version.  
+
 * Torchtext :  
       How to install: Run `pip install torchtext` in Command prompt.
       
@@ -41,7 +42,7 @@ running notebooks with 30 hours runtime per week. this will help you in getting 
 BLEU, or the Bilingual Evaluation Understudy, is a score for comparing a candidate translation of text to one or more reference translations. Although developed for translation,
 it can be used to evaluate text generated for a suite of natural language processing tasks. More the score, more will be its accuracy to correct translation.  
 
-For this notebook, the _Bleu score =  21.06_** .
+For this notebook, the **Bleu score =  21.06** .
 
 ### Loss plot  
 We have used `torch.utils.tensorboard`, for using tensorboard to visualise a nice loss plot.
