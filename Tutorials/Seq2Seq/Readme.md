@@ -61,9 +61,9 @@ Like this:
 **Loss Plots:**
       
 <br/>
-<img src="./assets/loss_plot1.png"  width="250">
+<img src="./assets/loss_plot1.png"  width="750">
 <br/>      
-<img src="./assets/loss_plot2.png"  width="250"> 
+<img src="./assets/loss_plot2.png"  width="750"> 
 <br/>
-<img src="./assets/loss_plot3.png"  width="250">     
+<img src="./assets/loss_plot3.png"  width="750">     
 <br/>
