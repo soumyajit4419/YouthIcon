@@ -53,7 +53,8 @@ For any issue related to its installation or import error, see [here](https://ww
 
 After the model is saved, we can see the loss plot, saved in the folder name /runs/loss_plot in the same directory. 
 to see the plot, open cmd in the folder/directory where Seq2Seq folder is saved or re direct it to /Youthicon folder, then Tutorials, Seq2Seq .
-or just type cmd in the search bar after opening Seq2Seq folder, then type `tensorboard --logdir runs`. This will make a local server with port 6006, which is for tensorflow .
+or just type cmd in the search bar after opening Seq2Seq folder,  
+**then type** `tensorboard --logdir runs`. This will make a local server with port 6006, which is for tensorflow .  
 --logdir runs is used because it will directly check for runs dolder. if you saved it with some other folder name, use that name intead of runs, to see it. when the server
 will be hosted, you will get a link http://localhost:6006/ in cmd. copy this url, and paste it in browser . this will open the tensorboard UI, and you can see your plot.
 Like this:  
