@@ -58,4 +58,5 @@ There are many ways to contribute to **YouthIcon**. We are looking for peoples w
 
 See [Code of Conduct](https://github.com/osDFS/Code-of-Conduct/blob/master/code-of-conduct.md)
 
-
+## Acknowledgements
+Some initial directory setup and scripts have been copied from [Masakhane](https://masakhane.io/). 
